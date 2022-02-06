@@ -10,3 +10,10 @@
     text-align: center;
     width: 100%;
 }
+
+.botao--alternativo {
+    background-color: unset;
+    box-shadow: none;
+    border: 1px solid var(--amarelo);
+    color: var(--amarelo);
+}
